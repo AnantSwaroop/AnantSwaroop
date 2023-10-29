@@ -10,8 +10,8 @@
 
 🚀 Let's build the future together, one line of code at a time.
 
-📫 Connect with me: [Your Email Address]
+📫 Connect with me: [anantswaroopt@gmail.com]
 
 🔗 Explore my projects below 👇
 
-Feel free to replace "[Your Email Address]" with your actual contact information, and make sure to link to your GitHub repositories and portfolio. This text is a great starting point for your GitHub profile to showcase your skills and interests.
+Feel free to replace "[anantswaroopt@gmail.com]" with your actual contact information, and make sure to link to your GitHub repositories and portfolio. This text is a great starting point for your GitHub profile to showcase your skills and interests.
